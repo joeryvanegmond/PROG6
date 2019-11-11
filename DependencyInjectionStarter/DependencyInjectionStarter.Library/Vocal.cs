@@ -1,8 +1,9 @@
 ﻿namespace DependencyInjectionStarter.Library
 {
-    public class Vocal
+    public class Vocal : IIinstrument
     {
-        public string Sing()
+   
+        public string UseInstrument()
         {
             return "Traaa laaa laaa la la";
         }

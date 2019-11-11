@@ -14,3 +14,8 @@ C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionSt
 C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.csproj.CoreCompileInputs.cache
 C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.dll
 C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter.Library\bin\Debug\DependencyInjectionStarter.Library.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter.Library\bin\Debug\DependencyInjectionStarter.Library.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.pdb

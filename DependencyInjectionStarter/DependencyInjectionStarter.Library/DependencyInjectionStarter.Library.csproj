@@ -20,6 +20,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -28,6 +29,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -42,6 +44,8 @@
     <Compile Include="BassGuitar.cs" />
     <Compile Include="Drums.cs" />
     <Compile Include="Guitar.cs" />
+    <Compile Include="IIinstrument.cs" />
+    <Compile Include="Keyboard.cs" />
     <Compile Include="RockBand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Vocal.cs" />

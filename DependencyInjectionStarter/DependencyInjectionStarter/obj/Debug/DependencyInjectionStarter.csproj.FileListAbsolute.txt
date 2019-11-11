@@ -26,3 +26,14 @@ C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionSt
 C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.csproj.CoreCompileInputs.cache
 C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.exe
 C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.exe.config
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.Library.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.Library.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\Ninject.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\Ninject.xml

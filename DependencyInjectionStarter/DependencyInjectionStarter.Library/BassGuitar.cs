@@ -1,8 +1,8 @@
 ﻿namespace DependencyInjectionStarter.Library
 {
-    public class BassGuitar
+    public class BassGuitar : IIinstrument
     {
-        public string PlayBassLine()
+        public string UseInstrument()
         {
             return "Boooow Boooow Boooooow";
         }

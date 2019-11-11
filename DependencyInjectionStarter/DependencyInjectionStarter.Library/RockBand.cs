@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DependencyInjectionStarter.Library
 {
@@ -9,12 +10,16 @@ namespace DependencyInjectionStarter.Library
         private Drums drums = new Drums();
         private Vocal vocal = new Vocal();
 
+        private List<IIinstrument> _Instruments;
+
+        public RockBand(List<IIinstrument> instruments) 
+        {
+            _Instruments = instruments;
+        }    
+
         public void DoSoundCheck()
         {
-            Console.WriteLine(guitar.PlayRiff());
-            Console.WriteLine(bassGuitar.PlayBassLine());
-            Console.WriteLine(drums.Drum());
-            Console.WriteLine(vocal.Sing());
+            _Instruments.ForEach(i => Console.WriteLine(i.UseInstrument()));
         }
     }
 }
