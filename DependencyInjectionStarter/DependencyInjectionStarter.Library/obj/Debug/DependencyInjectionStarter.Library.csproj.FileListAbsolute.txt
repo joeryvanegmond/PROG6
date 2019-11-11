@@ -1,0 +1,16 @@
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter.Library\bin\Debug\DependencyInjectionStarter.Library.dll
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter.Library\bin\Debug\DependencyInjectionStarter.Library.pdb
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.csprojResolveAssemblyReference.cache
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.dll
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.pdb
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter.Library\bin\Debug\DependencyInjectionStarter.Library.dll
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter.Library\bin\Debug\DependencyInjectionStarter.Library.pdb
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.csprojResolveAssemblyReference.cache
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.dll
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.pdb
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\bin\Debug\DependencyInjectionStarter.Library.dll
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\bin\Debug\DependencyInjectionStarter.Library.pdb
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.csprojResolveAssemblyReference.cache
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.csproj.CoreCompileInputs.cache
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.dll
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.pdb

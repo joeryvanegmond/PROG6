@@ -1,0 +1,16 @@
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.exe.config
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.exe
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.pdb
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.csprojResolveAssemblyReference.cache
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.exe
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.pdb
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.Library.dll
+D:\Classes\Development\PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.Library.pdb
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.exe.config
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.exe
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.pdb
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.exe
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.pdb
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.Library.dll
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\bin\Debug\DependencyInjectionStarter.Library.pdb
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 3\Uitwerkingen\3.1\DependencyInjectionStarter\DependencyInjectionStarter\obj\Debug\DependencyInjectionStarter.csprojResolveAssemblyReference.cache
