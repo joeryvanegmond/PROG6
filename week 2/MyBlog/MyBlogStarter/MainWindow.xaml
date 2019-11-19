@@ -20,6 +20,11 @@
 
                 <Button Width="50" Height="50" FontSize="28" Content="+" 
                         Foreground="White" FontWeight="Bold" Background="#FF44AE3F" 
+                        Grid.Column="1"  Command="{Binding ShowAddBlogCommand}">
+                </Button>
+
+                <Button Width="50" Height="50" FontSize="28" Content="-" 
+                        Foreground="White" FontWeight="Bold" Background="Red" 
                         Grid.Column="3"  Command="{Binding ShowAddBlogCommand}">
                 </Button>
             </Grid>

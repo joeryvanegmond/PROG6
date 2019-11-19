@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyBlogStarter.Repository;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
@@ -11,23 +12,9 @@ namespace MyBlogStarter.ViewModels
     {
         public ObservableCollection<BlogVM> Blogs { get; set; }
 
-        public MainViewModel()
+        public MainViewModel(IBlogRepository blogRepo)
         {
-            Blogs = new ObservableCollection<BlogVM>();
-
-            Blogs.Add(new BlogVM()
-            {
-                Title = "A WPF Tutorial",
-                Author = "Stijn Smulders",
-                TimeStamp = DateTime.Now
-            });
-
-            Blogs.Add(new BlogVM()
-            {
-                Title = "A DI Tutorial",
-                Author = "Stijn Smulders",
-                TimeStamp = DateTime.Now
-            });
+            this.Blogs = new ObservableCollection<BlogVM>(blogRepo.GetBlogs());
         }
     }
 }
