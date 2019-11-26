@@ -1,0 +1,11 @@
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\bin\Debug\MyNinjaManager.Domain.dll.config
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\bin\Debug\MyNinjaManager.Domain.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\bin\Debug\MyNinjaManager.Domain.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\bin\Debug\EntityFramework.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\bin\Debug\EntityFramework.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\obj\Debug\MyNinjaManager.Domain.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\obj\Debug\MyNinjaManager.Domain.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\obj\Debug\MyNinjaManager.Domain.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Domain\obj\Debug\MyNinjaManager.Domain.pdb

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<LeagueStore.Models.Employee>
+
+<h2>Contact</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="box">
+            <div class="col-lg-12 text-center">
+
+                <ul>
+                    <li>@ViewBag.Naam</li>
+                    <li>@ViewBag.Adres</li>
+                    <li>@ViewBag.Telefoonnummer</li>
+                    <li>@ViewBag.Email</li>
+                    <li>@ViewBag.Datum</li>
+                </ul>
+
+                <ul>
+                @foreach (var item in Model)
+                {
+                    <li>@item.Name</li>
+                }
+
+                </ul>
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+

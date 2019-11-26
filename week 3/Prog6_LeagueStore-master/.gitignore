@@ -1,0 +1,15 @@
+/node_modules/
+TestResults
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+/.vs/LeagueStore/v15/Server/sqlite3/storage.ide-wal
+/.vs/LeagueStore/v15/Server/sqlite3/storage.ide-shm
+/.vs/LeagueStore/v15/Server/sqlite3/storage.ide
+/.vs/LeagueStore/v15/Server/sqlite3/db.lock
+/.vs/LeagueStore/v15/sqlite3/db.lock
+/.vs/LeagueStore/v15/sqlite3/storage.ide-wal
+/.vs/LeagueStore/v15/sqlite3/storage.ide-shm

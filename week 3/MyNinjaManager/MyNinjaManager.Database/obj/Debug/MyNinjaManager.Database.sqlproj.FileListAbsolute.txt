@@ -1,0 +1,10 @@
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Database\bin\Debug\MyNinjaManager.Database.dacpac
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Database\bin\Debug\MyNinjaManager.Database.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Database\bin\Debug\MyNinjaManager.Database.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Database\obj\Debug\MyNinjaManager.Database.sqlprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Database\obj\Debug\Model.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Database\obj\Debug\refactor.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Database\obj\Debug\postdeploy.sql
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Database\obj\Debug\predeploy.sql
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Database\obj\Debug\MyNinjaManager.Database.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\week 3\MyNinjaManager\MyNinjaManager.Database\obj\Debug\MyNinjaManager.Database.pdb
