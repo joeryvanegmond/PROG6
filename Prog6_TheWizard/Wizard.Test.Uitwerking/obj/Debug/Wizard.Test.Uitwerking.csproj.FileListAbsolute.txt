@@ -1,0 +1,11 @@
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\bin\Debug\Wizard.Test.Uitwerking.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\bin\Debug\Wizard.Test.Uitwerking.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\bin\Debug\Moq.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\bin\Debug\Wizard.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\bin\Debug\Wizard.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\bin\Debug\Moq.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\obj\Debug\Wizard.Test.Uitwerking.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\obj\Debug\Wizard.Test.Uitwerking.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\obj\Debug\Wizard.Test.Uitwerking.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test.Uitwerking\obj\Debug\Wizard.Test.Uitwerking.pdb

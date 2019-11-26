@@ -1,0 +1,17 @@
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\Wizard.Test.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\Wizard.Test.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\Wizard.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\Wizard.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\obj\Debug\Wizard.Test.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\obj\Debug\Wizard.Test.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\obj\Debug\Wizard.Test.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\obj\Debug\Wizard.Test.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\Castle.Core.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\Moq.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\Castle.Core.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\Moq.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard.Test\bin\Debug\System.Threading.Tasks.Extensions.xml

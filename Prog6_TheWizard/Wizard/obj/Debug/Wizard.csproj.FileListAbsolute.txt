@@ -1,0 +1,5 @@
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard\bin\Debug\Wizard.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard\bin\Debug\Wizard.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard\obj\Debug\Wizard.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard\obj\Debug\Wizard.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\Prog6_TheWizard\Wizard\obj\Debug\Wizard.pdb
