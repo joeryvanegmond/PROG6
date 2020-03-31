@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d157a96ff6cf44ad8f53cf4dead1ce14" Name="Diagram1">
+        <EntityTypeShape EntityType="BOEFModel.C__RefactorLog" Width="1.5" PointX="11.625" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOEFModel.Accessoires" Width="1.5" PointX="2.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOEFModel.Beest" Width="1.5" PointX="2.625" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOEFModel.BeestType" Width="1.5" PointX="0.5" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="BOEFModel.FK_Accessoires_ToBeest" ManuallyRouted="false" />
+        <AssociationConnector Association="BOEFModel.FK_Beest_ToType" />
+        <EntityTypeShape EntityType="BOEFModel.Boeking" Width="1.5" PointX="6.375" PointY="3" />
+        <EntityTypeShape EntityType="BOEFModel.Customer" Width="1.5" PointX="9.25" PointY="2.75" />
+        <AssociationConnector Association="BOEFModel.FK_Boeking_ToCustomer" />
+        <AssociationConnector Association="BOEFModel.BeestMetBoeking" />
+        <EntityTypeShape EntityType="BOEFModel.BeestImage" Width="1.5" PointX="0.5" PointY="5.5" />
+        <AssociationConnector Association="BOEFModel.FK_Beest_ToImage" />
+        <AssociationConnector Association="BOEFModel.AccessoireMetBoeking" />
+        <EntityTypeShape EntityType="BOEFModel.AccessoireImage" Width="1.5" PointX="0.5" PointY="0.75" />
+        <AssociationConnector Association="BOEFModel.FK_Accessoire_ToImage" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

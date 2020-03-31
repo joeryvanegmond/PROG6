@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BOEFModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="__RefactorLog">
+    <Key>
+      <PropertyRef Name="OperationKey" />
+    </Key>
+    <Property Name="OperationKey" Type="uniqueidentifier" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AccessoireImage">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="ImagePath" Type="nchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AccessoireMetBoeking">
+    <Key>
+      <PropertyRef Name="AccessoireId" />
+      <PropertyRef Name="BoekingId" />
+    </Key>
+    <Property Name="AccessoireId" Type="int" Nullable="false" />
+    <Property Name="BoekingId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Accessoires">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="IdBeest" Type="int" Nullable="false" />
+    <Property Name="Image" Type="int" />
+  </EntityType>
+  <EntityType Name="Beest">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Type" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Prijs" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Image" Type="int" />
+  </EntityType>
+  <EntityType Name="BeestImage">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ImagePath" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BeestMetBoeking">
+    <Key>
+      <PropertyRef Name="BeestId" />
+      <PropertyRef Name="BoekingId" />
+    </Key>
+    <Property Name="BeestId" Type="int" Nullable="false" />
+    <Property Name="BoekingId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BeestType">
+    <Key>
+      <PropertyRef Name="Type" />
+    </Key>
+    <Property Name="Type" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Boeking">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="CustomerId" Type="int" Nullable="false" />
+    <Property Name="totalPrice" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Discount" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Firstname" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Infix" Type="nchar" MaxLength="10" />
+    <Property Name="Lastname" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Adress" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Mail" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Telephone" Type="int" />
+  </EntityType>
+  <Association Name="FK_Accessoire_ToImage">
+    <End Role="AccessoireImage" Type="Self.AccessoireImage" Multiplicity="0..1" />
+    <End Role="Accessoires" Type="Self.Accessoires" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AccessoireImage">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Accessoires">
+        <PropertyRef Name="Image" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AccessoireMetBoeking_ToBeest">
+    <End Role="Accessoires" Type="Self.Accessoires" Multiplicity="1" />
+    <End Role="AccessoireMetBoeking" Type="Self.AccessoireMetBoeking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Accessoires">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AccessoireMetBoeking">
+        <PropertyRef Name="AccessoireId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AccessoireMetBoeking_ToBoeking">
+    <End Role="Boeking" Type="Self.Boeking" Multiplicity="1" />
+    <End Role="AccessoireMetBoeking" Type="Self.AccessoireMetBoeking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Boeking">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AccessoireMetBoeking">
+        <PropertyRef Name="BoekingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Accessoires_ToBeest">
+    <End Role="Beest" Type="Self.Beest" Multiplicity="1" />
+    <End Role="Accessoires" Type="Self.Accessoires" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Beest">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Accessoires">
+        <PropertyRef Name="IdBeest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Beest_ToImage">
+    <End Role="BeestImage" Type="Self.BeestImage" Multiplicity="0..1" />
+    <End Role="Beest" Type="Self.Beest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BeestImage">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Beest">
+        <PropertyRef Name="Image" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Beest_ToType">
+    <End Role="BeestType" Type="Self.BeestType" Multiplicity="1" />
+    <End Role="Beest" Type="Self.Beest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BeestType">
+        <PropertyRef Name="Type" />
+      </Principal>
+      <Dependent Role="Beest">
+        <PropertyRef Name="Type" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BeestMetBoeking_ToBeest">
+    <End Role="Beest" Type="Self.Beest" Multiplicity="1" />
+    <End Role="BeestMetBoeking" Type="Self.BeestMetBoeking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Beest">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BeestMetBoeking">
+        <PropertyRef Name="BeestId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BeestMetBoeking_ToBoeking">
+    <End Role="Boeking" Type="Self.Boeking" Multiplicity="1" />
+    <End Role="BeestMetBoeking" Type="Self.BeestMetBoeking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Boeking">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BeestMetBoeking">
+        <PropertyRef Name="BoekingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Boeking_ToCustomer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="Boeking" Type="Self.Boeking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Boeking">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BOEFModelStoreContainer">
+    <EntitySet Name="__RefactorLog" EntityType="Self.__RefactorLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AccessoireImage" EntityType="Self.AccessoireImage" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AccessoireMetBoeking" EntityType="Self.AccessoireMetBoeking" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Accessoires" EntityType="Self.Accessoires" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Beest" EntityType="Self.Beest" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BeestImage" EntityType="Self.BeestImage" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BeestMetBoeking" EntityType="Self.BeestMetBoeking" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BeestType" EntityType="Self.BeestType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Boeking" EntityType="Self.Boeking" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Accessoire_ToImage" Association="Self.FK_Accessoire_ToImage">
+      <End Role="AccessoireImage" EntitySet="AccessoireImage" />
+      <End Role="Accessoires" EntitySet="Accessoires" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AccessoireMetBoeking_ToBeest" Association="Self.FK_AccessoireMetBoeking_ToBeest">
+      <End Role="Accessoires" EntitySet="Accessoires" />
+      <End Role="AccessoireMetBoeking" EntitySet="AccessoireMetBoeking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AccessoireMetBoeking_ToBoeking" Association="Self.FK_AccessoireMetBoeking_ToBoeking">
+      <End Role="Boeking" EntitySet="Boeking" />
+      <End Role="AccessoireMetBoeking" EntitySet="AccessoireMetBoeking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Accessoires_ToBeest" Association="Self.FK_Accessoires_ToBeest">
+      <End Role="Beest" EntitySet="Beest" />
+      <End Role="Accessoires" EntitySet="Accessoires" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Beest_ToImage" Association="Self.FK_Beest_ToImage">
+      <End Role="BeestImage" EntitySet="BeestImage" />
+      <End Role="Beest" EntitySet="Beest" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Beest_ToType" Association="Self.FK_Beest_ToType">
+      <End Role="BeestType" EntitySet="BeestType" />
+      <End Role="Beest" EntitySet="Beest" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BeestMetBoeking_ToBeest" Association="Self.FK_BeestMetBoeking_ToBeest">
+      <End Role="Beest" EntitySet="Beest" />
+      <End Role="BeestMetBoeking" EntitySet="BeestMetBoeking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BeestMetBoeking_ToBoeking" Association="Self.FK_BeestMetBoeking_ToBoeking">
+      <End Role="Boeking" EntitySet="Boeking" />
+      <End Role="BeestMetBoeking" EntitySet="BeestMetBoeking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Boeking_ToCustomer" Association="Self.FK_Boeking_ToCustomer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Boeking" EntitySet="Boeking" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

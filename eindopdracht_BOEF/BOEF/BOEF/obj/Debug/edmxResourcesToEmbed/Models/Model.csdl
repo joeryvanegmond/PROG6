@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BOEFModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="C__RefactorLog">
+    <Key>
+      <PropertyRef Name="OperationKey" />
+    </Key>
+    <Property Name="OperationKey" Type="Guid" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Accessoires">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IdBeest" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Beest" Relationship="Self.FK_Accessoires_ToBeest" FromRole="Accessoires" ToRole="Beest" />
+    <Property Name="Price" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <NavigationProperty Name="Boeking" Relationship="BOEFModel.AccessoireMetBoeking" FromRole="Accessoires" ToRole="Boeking" />
+    <Property Name="Image" Type="Int32" />
+    <NavigationProperty Name="AccessoireImage" Relationship="BOEFModel.FK_Accessoire_ToImage" FromRole="Accessoires" ToRole="AccessoireImage" />
+  </EntityType>
+  <EntityType Name="Beest">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Prijs" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <NavigationProperty Name="Accessoires" Relationship="Self.FK_Accessoires_ToBeest" FromRole="Beest" ToRole="Accessoires" />
+    <NavigationProperty Name="BeestType" Relationship="BOEFModel.FK_Beest_ToType" FromRole="Beest" ToRole="BeestType" />
+    <NavigationProperty Name="Boeking" Relationship="BOEFModel.BeestMetBoeking" FromRole="Beest" ToRole="Boeking" />
+    <Property Name="Image" Type="Int32" />
+    <NavigationProperty Name="BeestImage" Relationship="BOEFModel.FK_Beest_ToImage" FromRole="Beest" ToRole="BeestImage" />
+  </EntityType>
+  <EntityType Name="BeestType">
+    <Key>
+      <PropertyRef Name="Type" />
+    </Key>
+    <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Beest" Relationship="BOEFModel.FK_Beest_ToType" FromRole="BeestType" ToRole="Beest" />
+  </EntityType>
+  <Association Name="FK_Accessoires_ToBeest">
+    <End Role="Beest" Type="Self.Beest" Multiplicity="1" />
+    <End Role="Accessoires" Type="Self.Accessoires" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Beest">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Accessoires">
+        <PropertyRef Name="IdBeest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BOEFEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__RefactorLog" EntityType="Self.C__RefactorLog" />
+    <EntitySet Name="Accessoires" EntityType="Self.Accessoires" />
+    <EntitySet Name="Beest" EntityType="Self.Beest" />
+    <EntitySet Name="BeestType" EntityType="Self.BeestType" />
+    <AssociationSet Name="FK_Accessoires_ToBeest" Association="Self.FK_Accessoires_ToBeest">
+      <End Role="Beest" EntitySet="Beest" />
+      <End Role="Accessoires" EntitySet="Accessoires" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Beest_ToType" Association="BOEFModel.FK_Beest_ToType">
+      <End Role="BeestType" EntitySet="BeestType" />
+      <End Role="Beest" EntitySet="Beest" />
+    </AssociationSet>
+    <EntitySet Name="Boeking" EntityType="BOEFModel.Boeking" />
+    <EntitySet Name="Customer" EntityType="BOEFModel.Customer" />
+    <AssociationSet Name="FK_Boeking_ToCustomer" Association="BOEFModel.FK_Boeking_ToCustomer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Boeking" EntitySet="Boeking" />
+    </AssociationSet>
+    <AssociationSet Name="BeestMetBoeking" Association="BOEFModel.BeestMetBoeking">
+      <End Role="Beest" EntitySet="Beest" />
+      <End Role="Boeking" EntitySet="Boeking" />
+    </AssociationSet>
+    <EntitySet Name="BeestImage" EntityType="BOEFModel.BeestImage" />
+    <AssociationSet Name="FK_Beest_ToImage" Association="BOEFModel.FK_Beest_ToImage">
+      <End Role="BeestImage" EntitySet="BeestImage" />
+      <End Role="Beest" EntitySet="Beest" />
+    </AssociationSet>
+    <AssociationSet Name="AccessoireMetBoeking" Association="BOEFModel.AccessoireMetBoeking">
+      <End Role="Accessoires" EntitySet="Accessoires" />
+      <End Role="Boeking" EntitySet="Boeking" />
+    </AssociationSet>
+    <EntitySet Name="AccessoireImage" EntityType="BOEFModel.AccessoireImage" />
+    <AssociationSet Name="FK_Accessoire_ToImage" Association="BOEFModel.FK_Accessoire_ToImage">
+      <End Role="AccessoireImage" EntitySet="AccessoireImage" />
+      <End Role="Accessoires" EntitySet="Accessoires" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_Beest_ToType">
+    <End Type="BOEFModel.BeestType" Role="BeestType" Multiplicity="1" />
+    <End Type="BOEFModel.Beest" Role="Beest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BeestType">
+        <PropertyRef Name="Type" />
+      </Principal>
+      <Dependent Role="Beest">
+        <PropertyRef Name="Type" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Boeking">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CustomerId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Customer" Relationship="BOEFModel.FK_Boeking_ToCustomer" FromRole="Boeking" ToRole="Customer" />
+    <NavigationProperty Name="Beest" Relationship="BOEFModel.BeestMetBoeking" FromRole="Boeking" ToRole="Beest" />
+    <Property Name="totalPrice" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <NavigationProperty Name="Accessoires" Relationship="BOEFModel.AccessoireMetBoeking" FromRole="Boeking" ToRole="Accessoires" />
+    <Property Name="Discount" Type="Decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Firstname" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Infix" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Lastname" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Adress" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telephone" Type="Int32" />
+    <NavigationProperty Name="Boeking" Relationship="BOEFModel.FK_Boeking_ToCustomer" FromRole="Customer" ToRole="Boeking" />
+  </EntityType>
+  <Association Name="FK_Boeking_ToCustomer">
+    <End Type="BOEFModel.Customer" Role="Customer" Multiplicity="1" />
+    <End Type="BOEFModel.Boeking" Role="Boeking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Boeking">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BeestMetBoeking">
+    <End Type="BOEFModel.Beest" Role="Beest" Multiplicity="*" />
+    <End Type="BOEFModel.Boeking" Role="Boeking" Multiplicity="*" />
+  </Association>
+  <EntityType Name="BeestImage">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ImagePath" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Beest" Relationship="BOEFModel.FK_Beest_ToImage" FromRole="BeestImage" ToRole="Beest" />
+  </EntityType>
+  <Association Name="FK_Beest_ToImage">
+    <End Type="BOEFModel.BeestImage" Role="BeestImage" Multiplicity="0..1" />
+    <End Type="BOEFModel.Beest" Role="Beest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BeestImage">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Beest">
+        <PropertyRef Name="Image" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AccessoireMetBoeking">
+    <End Type="BOEFModel.Accessoires" Role="Accessoires" Multiplicity="*" />
+    <End Type="BOEFModel.Boeking" Role="Boeking" Multiplicity="*" />
+  </Association>
+  <EntityType Name="AccessoireImage">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="ImagePath" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Accessoires" Relationship="BOEFModel.FK_Accessoire_ToImage" FromRole="AccessoireImage" ToRole="Accessoires" />
+  </EntityType>
+  <Association Name="FK_Accessoire_ToImage">
+    <End Type="BOEFModel.AccessoireImage" Role="AccessoireImage" Multiplicity="0..1" />
+    <End Type="BOEFModel.Accessoires" Role="Accessoires" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AccessoireImage">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Accessoires">
+        <PropertyRef Name="Image" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

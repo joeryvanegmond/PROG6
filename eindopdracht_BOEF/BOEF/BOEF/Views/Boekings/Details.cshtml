@@ -1,0 +1,136 @@
+﻿@model BOEF.Models.Boeking
+
+@{
+    ViewBag.Title = "Boeking gegevens";
+
+}
+
+<div>
+    <h4>Boeking</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Customer.Firstname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Customer.Firstname)
+
+        </dd>
+
+        @if (Model.Customer.Infix != null)
+        {
+            <dt>
+                @Html.DisplayNameFor(model => model.Customer.Infix)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Customer.Infix)
+
+            </dd>
+        }
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Customer.Lastname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Customer.Lastname)
+
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Customer.Adress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Customer.Adress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Customer.Mail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Customer.Mail)
+        </dd>
+
+        <hr />
+
+        @if (Model.Customer.Telephone != 0)
+        {
+            <dt>
+                @Html.DisplayNameFor(model => model.Customer.Telephone)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Customer.Telephone)
+            </dd>
+            <hr />
+        }
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <hr />
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Beest)
+        </dt>
+
+        @foreach (var item in Model.Beest)
+        {
+            <dd>@item.Name &ensp; €@item.Prijs</dd>
+        }
+
+        <hr />
+
+        @if (Model.Accessoires.Count != 0)
+        {
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Accessoires)
+            </dt>
+
+
+            foreach (var item in Model.Accessoires)
+            {
+                <dd>@item.Name &ensp; €@item.Price  </dd>
+            }
+            <hr />
+        }
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Discount)
+        </dt>
+
+        <dd>
+            €@Html.DisplayFor(model => model.Discount)
+        </dd>
+
+        <hr />
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.totalPrice)
+        </dt>
+
+        <dd>
+            €@Html.DisplayFor(model => model.totalPrice)
+        </dd>
+    </dl>
+</div>
+<button>
+    @Html.ActionLink("Delete", "Delete", new { id = Model.Id })
+</button>
+<button>
+    @Html.ActionLink("Back to List", "Index")
+</button>

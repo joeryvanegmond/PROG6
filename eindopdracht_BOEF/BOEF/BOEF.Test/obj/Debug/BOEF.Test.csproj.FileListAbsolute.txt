@@ -1,0 +1,213 @@
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.Test.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.Test.pdb
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\WebActivatorEx.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Optimization.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Owin.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\EntityFramework.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Razor.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.pdb
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.dll.config
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Optimization.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\EntityFramework.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Razor.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.csprojAssemblyReference.cache
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.csproj.CopyComplete
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.pdb
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.Test.dll.config
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Castle.Core.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Moq.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\WebGrease.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Castle.Core.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Moq.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.Test.dll.config
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.Test.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.Test.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Castle.Core.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Moq.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\WebActivatorEx.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Optimization.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Mvc.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Owin.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\EntityFramework.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\WebGrease.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Razor.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Antlr3.Runtime.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.dll.config
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Castle.Core.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Moq.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Optimization.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Mvc.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\EntityFramework.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Razor.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.pdb
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Helpers.xml
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Helpers.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Helpers.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.Test.dll.config
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.Test.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.Test.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Castle.Core.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Moq.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Helpers.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Mvc.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Razor.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Razor.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\WebActivatorEx.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Optimization.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Owin.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.WebHost.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\WebGrease.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\BOEF.dll.config
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Castle.Core.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Moq.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Helpers.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Mvc.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Razor.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.WebPages.Razor.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\System.Web.Optimization.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Ninject.Web.Common.WebHost.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Test\obj\Debug\BOEF.Test.pdb

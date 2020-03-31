@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[BeestImage]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Name] VARCHAR(50) NOT NULL, 
+    [ImagePath] VARCHAR(50) NOT NULL
+)

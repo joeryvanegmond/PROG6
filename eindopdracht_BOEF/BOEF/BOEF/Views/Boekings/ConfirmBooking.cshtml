@@ -1,0 +1,146 @@
+﻿@model BOEF.Models.ViewModels.BoekingVM
+
+@{
+    ViewBag.Title = "ConfirmBooking";
+}
+
+<h2>Beestje boeken</h2>
+
+@using (@Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+
+        <div class="progress" style="background-color:lightgrey;">
+            <div class="progress-bar progress-bar-info active" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%;">
+                Controleer je gegevens.
+            </div>
+        </div>
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7">
+                    <div class="card">
+                        <div class="card-header">
+
+                            <div>
+                                <h4>Stap 4: Controleer je gegevens</h4>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h2>Contact gegevens</h2>
+                                    <p>@Model.Customer.Firstname @Model.Customer.Infix @Model.Customer.Lastname</p>
+                                    <p>@Model.Customer.Adress</p>
+                                    <p>@Model.Customer.Mail</p>
+                                    @if (Model.Customer.Telephone != 0)
+                                    {
+                                        <p>@Model.Customer.Telephone</p>
+                                    }
+                                    <hr />
+                                    <h3>Prijs / korting</h3>
+                                    <ul>
+                                        @foreach (var item in Model.SelectedBeests)
+                                        {
+                                            <li>€@item.Key.Prijs&nbsp;@item.Key.Name</li>
+                                        }
+
+                                        @foreach (var item in Model.SelectedAccessoires.Keys)
+                                        {
+                                            <li>€@item.Price&nbsp;@item.Name</li>
+                                        }
+
+                                        @if (Model.Discounts.Count != 0)
+                                        {
+                                            foreach (var item in Model.Discounts)
+                                            {
+                                                <li>@item.Key: @item.Value%</li>
+                                            }
+                                        }
+                                        else
+                                        {
+                                            <li>Geen kortingen gevonden</li>
+                                        }
+                                    </ul>
+                                    <hr />
+                                    <p>Korting&nbsp;€@Model.TotalDiscount </p>
+                                    <p>Totaal prijs&nbsp;€@Model.TotalPrice </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <div class="card">
+                        <div class="card-header">
+
+                            <div>
+                                <h4>Boeking</h4>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    @Model.Date
+                                </div>
+                                <div class="col-md-12">
+                                    <hr />
+                                    <h6>Beestjes</h6>
+                                    @if (Model.SelectedBeests.Count != 0)
+                                    {
+                                        foreach (var item in Model.SelectedBeests)
+                                        {
+                                            <img src="@Url.Content(item.Value)" width="50" />
+                                        }
+
+                                    }
+                                    else
+                                    {
+                                        <p>Nog geen beestjes geselecteerd</p>
+                                    }
+                                </div>
+                                <div class="col-md-12">
+                                    <hr />
+                                    <h6>Accessoires</h6>
+                                    @if (Model.Accessoires.Count != 0)
+                                    {
+                                        foreach (var item in Model.SelectedAccessoires.Keys)
+                                        {
+                                            <div class="col-md-4">
+                                                <div class="text-center">
+                                                    <img src="@Url.Content(item.AccessoireImage.ImagePath)" width="50" alt="@item.AccessoireImage.Name" />
+                                                    <p>@item.Name</p>
+
+                                                </div>
+                                            </div>
+
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <p>Geen accessoires gekozen.</p>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Bevestig" onclick="Beests_confirmed" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+

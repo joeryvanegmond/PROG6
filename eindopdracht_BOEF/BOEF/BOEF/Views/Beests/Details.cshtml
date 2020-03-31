@@ -1,0 +1,73 @@
+﻿@model BOEF.Models.Beest
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+    <div>
+        <h4>Beest</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                Naam
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Prijs)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Prijs)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.BeestType.Type)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.BeestType.Type)
+            </dd>
+
+            <dt>
+                Afbeelding
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.BeestImage.Name)
+            </dd>
+
+            @if (Model.Boeking.Count != 0)
+            {
+                <hr />
+                <dt>
+                    Boeking
+                </dt>
+
+                foreach (var item in Model.Boeking)
+                {
+
+
+                    <dd>
+                        @item.Date
+                    </dd>
+                }
+            }
+
+
+        </dl>
+    </div>
+    <p>
+        <button>
+            @Html.ActionLink("Edit", "Edit", new { id = Model.Id })
+        </button>
+        <button>
+            @Html.ActionLink("Back to List", "Index")
+        </button>
+    </p>
+

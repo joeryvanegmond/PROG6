@@ -1,0 +1,73 @@
+<HISTORY>
+
+[COMPLETE]
+-	ASP project opzetten, begin aan RepositoryLocator en database opzetten.
+
+[COMPLETE]
+-	Database tabellen moeten beter kloppen. 
+	denk aan de relaties tussen beest en accessoire
+
+[COMPLETE]
+-	Beestcontroller is automatisch gemaakt en werkt via
+	een directe dbContext. Dit moet via repositories gaan.
+
+[COMPLETE]
+-	1. Afvangen als beest verwijdert wordt wanneer de accessoire nog bestaat.
+	2. Afvangen als accessoire wordt aangemaakt, dat beest niet leeg mag zijn (geen accessoire maken als er geen beest is).
+-	Één dier mag meerdere accessoires hebben, 1 accessoire mag maar bij 1 dier horen.
+-	Boeking tabel aanmaken
+
+[COMPLETE]
+-	Beestjes weergeven in plaatjes
+-	Beestjes weergeven met checkbox in gridview
+-	Boekingproces:	checkbox moet bijhouden welke geselecteerd zijn,
+					wanneer bevestigd, wordt selectie opgeslagen.
+
+[COMPLETE]
+-	Homepage (view > create van boekings) aanpassen.
+-	Boekingsproces:	alles tijdelijk opslaan in BoekingVM, wanneer op bevestigen wordt gedrukt, 
+					dan pas alles in database zetten.
+-					Selecteren van accessoires op basis van gekozen diertjes
+-	Progressbar op bepaald percentage zetten per pagina van boekingproces
+
+[COMPLETE]
+-	Eventuele kortingen berekenen (methodes om soorten kortingen uit te rekenen zijn gemaakt) > SaleCalculator
+-	Bevestigings pagina maken
+
+[COMPLETE]
+-	op pagina gegevens invullen zijn accessoires zichtbaar, terwijl deze niet zijn aangevinkt.
+-	BUG: accessoires wordt 2x weergegeven.
+
+[COMPLETE]
+-	datum boeking mag niet in het verleden liggen
+-	Afvangen dat je niet kan boeken als er geen beestjes zijn
+-	totaleprijs
+
+[VALIDATIEREGELS GEFIXT]
+-	leeuw of ijsbeer mag niet met een ander dier met boerderij als type
+-	VALIDATIE > "Je mag geen beestje boeken van het type ‘Sneeuw’ in de maanden juni t/m augustus" maken (derest is af en werkt)
+
+[COMPLETE]
+-	Beestscontroller met repository laten werken.
+-	Boekingscontroller met repository laten werken
+	BoekingsRepository maken + interface
+-	alle geboekte beestjes op de datum die is ingevoerd moeten worden disabled.
+-	Boekingsproces:	BoekingsVM ontleden en boeking opslaan in database (VIA REPOSITORY).
+-	overzicht van gemaakte boekingen maken (custom)
+-	boeking kunnen verwijderen (custom)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<TO DO>
+
+[NOT DONE]
+-	aantal nullen achter comma verminderen.
+
+[NOT DONE]
+-	Misschien erbij zetten welk accesoire bij welk beest hoort (maar hoeft niet).
+
+<<<LAATSTE DINGEN>>>
+ -	Kan geen accessoire of dier verwijderen als deze geboekt is (validatie met dat eerst boeking moet worden verwijdert).
+
+
+
+	

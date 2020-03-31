@@ -1,0 +1,59 @@
+﻿@model BOEF.Models.Accessoires
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Accessoires</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Naam
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            Hoort bij
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Beest.Name)
+        </dd>
+
+        @if (Model.Boeking.Count != 0)
+        {
+            <hr />
+            <dt>
+                Boeking
+            </dt>
+
+            foreach (var item in Model.Boeking)
+            {
+
+
+                <dd>
+                    @item.Date
+                </dd>
+            }
+        }
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

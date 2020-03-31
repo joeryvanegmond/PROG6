@@ -1,0 +1,55 @@
+﻿@*@model IEnumerable<BOEF.Models.Beest>*@
+@model  Dictionary<BOEF.Models.Beest, string>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+
+        <th>
+            Naam
+        </th>
+        <th>
+            Prijs
+        </th>
+        <th>
+            Type
+        </th>
+        <th>
+            Afbeelding
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Key.Name
+            </td>
+            <td>
+                €@item.Key.Prijs
+            </td>
+            <td>
+                @item.Key.BeestType.Type
+            </td>
+            <td>
+                <img src="@Url.Content(item.Value)" width="40" />
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Key.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Key.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Key.Id })
+            </td>
+        </tr>
+    }
+
+</table>

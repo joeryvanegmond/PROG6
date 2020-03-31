@@ -1,0 +1,32 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[AccessoireImage] (Table)
+       [dbo].[AccessoireMetBoeking] (Table)
+       [dbo].[Accessoires] (Table)
+       [dbo].[Beest] (Table)
+       [dbo].[BeestImage] (Table)
+       [dbo].[BeestMetBoeking] (Table)
+       [dbo].[BeestType] (Table)
+       [dbo].[Boeking] (Table)
+       [dbo].[Customer] (Table)
+       [dbo].[FK_AccessoireMetBoeking_ToBeest] (Foreign Key)
+       [dbo].[FK_AccessoireMetBoeking_ToBoeking] (Foreign Key)
+       [dbo].[FK_Accessoires_ToBeest] (Foreign Key)
+       [dbo].[FK_Accessoire_ToImage] (Foreign Key)
+       [dbo].[FK_Beest_ToType] (Foreign Key)
+       [dbo].[FK_Beest_ToImage] (Foreign Key)
+       [dbo].[FK_BeestMetBoeking_ToBeest] (Foreign Key)
+       [dbo].[FK_BeestMetBoeking_ToBoeking] (Foreign Key)
+       [dbo].[FK_Boeking_ToCustomer] (Foreign Key)
+
+** Supporting actions

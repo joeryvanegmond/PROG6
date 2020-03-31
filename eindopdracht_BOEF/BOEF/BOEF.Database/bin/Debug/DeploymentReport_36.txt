@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[AccessoireImage]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[AccessoireImage] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Accessoire_ToImage] (Foreign Key)
+     Create
+       [dbo].[FK_Accessoire_ToImage] (Foreign Key)

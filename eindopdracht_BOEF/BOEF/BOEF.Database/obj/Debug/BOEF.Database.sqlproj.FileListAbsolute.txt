@@ -1,0 +1,21 @@
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\bin\Debug\BOEF.Database.dacpac
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\bin\Debug\BOEF.Database.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\bin\Debug\BOEF.Database.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\BOEF.Database.dll
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\BOEF.Database.pdb
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\bin\Debug\BOEF.Database.dacpac
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\bin\Debug\BOEF.Database.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\bin\Debug\BOEF.Database.pdb
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\BOEF.Database.dll
+C:\Users\Tess157\Documents\SCHOOL LJ 2 blok 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\BOEF.Database.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\bin\Debug\BOEF.Database.dacpac
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\bin\Debug\BOEF.Database.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\bin\Debug\BOEF.Database.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\BOEF.Database.sqlprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\Model.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\refactor.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\postdeploy.sql
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\predeploy.sql
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\BOEF.Database.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\BOEF.Database.pdb
+C:\Users\joery\Documents\Avans\BLOK6\PROG6\eindopdracht-prog6-1920-tess_en_joery\BOEF\BOEF.Database\obj\Debug\BOEF.Database.sqlprojAssemblyReference.cache

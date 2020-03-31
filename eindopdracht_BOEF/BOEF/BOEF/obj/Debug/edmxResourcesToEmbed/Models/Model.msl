@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BOEFModelStoreContainer" CdmEntityContainer="BOEFEntities">
+    <EntitySetMapping Name="C__RefactorLog">
+      <EntityTypeMapping TypeName="BOEFModel.C__RefactorLog">
+        <MappingFragment StoreEntitySet="__RefactorLog">
+          <ScalarProperty Name="OperationKey" ColumnName="OperationKey" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Accessoires">
+      <EntityTypeMapping TypeName="BOEFModel.Accessoires">
+        <MappingFragment StoreEntitySet="Accessoires">
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="IdBeest" ColumnName="IdBeest" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Beest">
+      <EntityTypeMapping TypeName="BOEFModel.Beest">
+        <MappingFragment StoreEntitySet="Beest">
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Prijs" ColumnName="Prijs" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BeestType">
+      <EntityTypeMapping TypeName="BOEFModel.BeestType">
+        <MappingFragment StoreEntitySet="BeestType">
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Boeking">
+      <EntityTypeMapping TypeName="BOEFModel.Boeking">
+        <MappingFragment StoreEntitySet="Boeking">
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="totalPrice" ColumnName="totalPrice" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customer">
+      <EntityTypeMapping TypeName="BOEFModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="Adress" ColumnName="Adress" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="Infix" ColumnName="Infix" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="BeestMetBoeking" TypeName="BOEFModel.BeestMetBoeking" StoreEntitySet="BeestMetBoeking">
+      <EndProperty Name="Boeking">
+        <ScalarProperty Name="Id" ColumnName="BoekingId" />
+      </EndProperty>
+      <EndProperty Name="Beest">
+        <ScalarProperty Name="Id" ColumnName="BeestId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <EntitySetMapping Name="BeestImage">
+      <EntityTypeMapping TypeName="BOEFModel.BeestImage">
+        <MappingFragment StoreEntitySet="BeestImage">
+          <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="AccessoireMetBoeking" TypeName="BOEFModel.AccessoireMetBoeking" StoreEntitySet="AccessoireMetBoeking">
+      <EndProperty Name="Boeking">
+        <ScalarProperty Name="Id" ColumnName="BoekingId" />
+      </EndProperty>
+      <EndProperty Name="Accessoires">
+        <ScalarProperty Name="Id" ColumnName="AccessoireId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <EntitySetMapping Name="AccessoireImage">
+      <EntityTypeMapping TypeName="BOEFModel.AccessoireImage">
+        <MappingFragment StoreEntitySet="AccessoireImage">
+          <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

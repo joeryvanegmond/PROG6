@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Accessoires] (Table)
+       [dbo].[Beest] (Table)
+       [dbo].[BeestType] (Table)
+       [dbo].[FK_Accessoires_ToType] (Foreign Key)
+       [dbo].[FK_Beest_ToType] (Foreign Key)
+       [dbo].[FK_Beest_ToAccessoire] (Foreign Key)
+
+** Supporting actions
